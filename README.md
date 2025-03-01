@@ -48,4 +48,4 @@ Open Sport_Analysis.pbix in Power BI to explore interactive dashboards 🖥️
 
 📎 Repository Link
 
-Check out the full project on GitHub: Sport-Analysis 🔗
+Check out the full project on GitHub: [Sport-Analysis] (https://github.com/JayantSinghTomar/Sport-Analysis) 🔗
